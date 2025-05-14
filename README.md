@@ -1,19 +1,4 @@
-# JEDIBALL
-"A long time ago in a galaxy far,",
-        "far away....",
-        "",
-        "There is a special ball,",
-        "one that holds the secrets of peace.",
-        "",
-        "It must be safely delivered to the",
-        "Jedi Temple on the far side of the planet.",
-        "",
-        "But monsters roam the path ahead.",
-        "",
-        "You are the only one who can help.",
-        "",
-        "Protect the ball.",
-        "Save the galaxy."
+EXTRACT BOTH THE ZIP FILE CLICK ON BALL.EXE AND PLAY.
 
 JEDIBALL is an exciting, fast-paced Pygame arcade game where you control a powerful, sacred ball destined for the Jedi Temple. Your mission? Dodge monstrous enemies and survive long enough to reach a score of 600 to deliver the ball safely.
 
